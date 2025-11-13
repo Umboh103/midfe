@@ -7,6 +7,34 @@
     "universitas": "Universitas Klabat",
     "tahun": "2025",
     "image": "timothy.jpg",
-    "about": "Saya adalah Timothy Alexander, seorang mahasiswa yang memiliki ketertarikan besar pada dunia pengembangan web, desain antarmuka, dan teknologi digital. Saya senang mempelajari cara kerja suatu sistem serta bagaimana tampilan dan interaksi dapat dirancang agar memberikan pengalaman terbaik bagi pengguna. Dalam proses belajar, saya telah mempelajari berbagai teknologi seperti HTML, CSS, JavaScript, dan React, serta menggunakan JSON Server dan REST API untuk menghubungkan data dengan antarmuka secara dinamis. Selain kemampuan teknis, saya juga memiliki karakter yang teliti, suka memecahkan masalah, dan memiliki semangat belajar yang tinggi. Saya percaya bahwa menjadi seorang mahasiswa IT bukan hanya tentang menulis kode, tetapi juga tentang memahami kebutuhan pengguna dan menciptakan tampilan yang fungsional, menarik, dan responsif. Saya juga senang berkolaborasi dalam tim, berbagi ide, serta beradaptasi dengan teknologi baru yang terus berkembang. Di luar kegiatan akademik, saya memiliki hobi bermain game dan mendengarkan musik, yang bagi saya membantu menjaga keseimbangan antara kreativitas dan fokus. Bermain game sering kali menginspirasi saya dalam memahami user experience (UX), sedangkan musik membantu saya tetap produktif dan tenang ketika bekerja. Ke depannya, saya ingin terus mengasah kemampuan saya dan menjadi seseorang yang mampu menggabungkan logika pemrograman dengan estetika desain untuk menciptakan solusi digital yang bermanfaat dan menyenangkan bagi pengguna."
+    "about": "Saya adalah Timothy Alexander, seorang mahasiswa yang memiliki ketertarikan besar pada dunia pengembangan web, desain antarmuka, dan teknologi digital. Saya senang mempelajari cara kerja suatu sistem serta bagaimana tampilan dan interaksi dapat dirancang agar memberikan pengalaman terbaik bagi pengguna. Dalam proses belajar, saya telah mempelajari berbagai teknologi seperti HTML, CSS, JavaScript, dan React, serta menggunakan JSON Server dan REST API untuk menghubungkan data dengan antarmuka secara dinamis. Selain kemampuan teknis, saya juga memiliki karakter yang teliti, suka memecahkan masalah, dan memiliki semangat belajar yang tinggi. Saya percaya bahwa menjadi seorang mahasiswa IT bukan hanya tentang menulis kode, tetapi juga tentang memahami kebutuhan pengguna dan menciptakan tampilan yang fungsional, menarik, dan responsif. Saya juga senang berkolaborasi dalam tim, berbagi ide, serta beradaptasi dengan teknologi baru yang terus berkembang. Di luar kegiatan akademik, saya memiliki hobi bermain game dan mendengarkan musik, yang bagi saya membantu menjaga keseimbangan antara kreativitas dan fokus. Bermain game sering kali menginspirasi saya dalam memahami user experience (UX), sedangkan musik membantu saya tetap produktif dan tenang ketika bekerja. Ke depannya, saya ingin terus mengasah kemampuan saya dan menjadi seseorang yang mampu menggabungkan logika pemrograman dengan estetika desain untuk menciptakan solusi digital yang bermanfaat dan menyenangkan bagi pengguna.",
+    "academic": ["GPA 3.8", "Dean's List 2024"],
+    "skills": {
+      "heading": "Technical Skills",
+      "description": "Beberapa kemampuan teknis yang saya kuasai.",
+      "items": [
+        { "name": "HTML", "level": 50, "color": "bg-red-400", "caption": "Markup & semantic HTML" },
+        { "name": "CSS", "level": 70, "color": "bg-blue-400", "caption": "Responsive layouts & Tailwind" },
+        { "name": "JavaScript", "level": 50, "color": "bg-yellow-400", "caption": "ES6+, DOM, Fetch/Axios" },
+        { "name": "React", "level": 50, "color": "bg-teal-400", "caption": "Hooks, Router, Vite" }
+      ]
+    },
+    "contact": {
+      "heading": "Get in touch",
+      "description": "Terbuka untuk kolaborasi dan pekerjaan freelance.",
+      "email": "timothyumboh@gmail.com",
+      "phone": "+62 87761364310",
+      "location": "Airmadidi",
+      "github": "https://github.com/",
+      "formHeading": "Quick message",
+      "formNamePlaceholder": "Nama Anda",
+      "formEmailPlaceholder": "Email",
+      "formMessagePlaceholder": "Pesan",
+      "formButtonText": "Kirim"
+    },
+    "footer": {
+      "copyright": "© 2025 Umboh, Timothy Alexander. All rights reserved.",
+      "builtWith": "Built with React & Tailwind CSS"
+    }
   }
 }
